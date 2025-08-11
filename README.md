@@ -123,45 +123,44 @@ Receipt_app/
 ## 🍽️ **Menu Categories & Items**
 
 ### **Snacks**
-- chapo (30 KES)
-- Ndazi (20 KES)
-- Tm (30 KES)
-- cake (30 KES)
-- Hcake (30 KES)
-- Eggs (40 KES)
-- Omelet (50 KES)
-- Sausage/Smokie (50 KES)
+- chapo 
+- Ndazi 
+- Tm 
+- cake 
+- Hcake 
+- Omelet 
+- Sausage/Smokie 
 
 ### **Food**
-- ChapoMix (90 KES)
-- Walimix (150 KES)
-- Ugalimix (150 KES)
-- PilauMix (180 KES)
-- ChapoMinji (140 KES)
-- Waliminji (200 KES)
-- Ugaliminji (200 KES)
-- PilauMinji (200 KES)
-- BeefChapo (190 KES)
-- BeefUgali (250 KES)
-- BeefRice (250 KES)
-- BeefPilau (300 KES)
+- ChapoMix 
+- Walimix 
+- Ugalimix 
+- PilauMix 
+- ChapoMinji 
+- Waliminji 
+- Ugaliminji 
+- PilauMinji 
+- BeefChapo 
+- BeefUgali 
+- BeefRice 
+- BeefPilau 
 - And many more...
 
 ### **Kuku (Chicken)**
-- KukuChapo (290 KES)
-- KukuUgali (350 KES)
-- KukuRice (350 KES)
-- KukuPilau (400 KES)
+- KukuChapo 
+- KukuUgali 
+- KukuRice 
+- KukuPilau 
 - And more...
 
 ### **Drinks**
-- Tea (30 KES)
-- BlackCoffee (30 KES)
-- WhiteCoffee (50 KES)
-- LemonTea (30 KES)
-- Concusion (50 KES)
-- Predator (70 KES)
-- Soda (50 KES)
+- Tea 
+- BlackCoffee 
+- WhiteCoffee 
+- LemonTea 
+- Concusion 
+- Predator 
+- Soda 
 - And more...
 
 ## 🔧 **Technical Details**
@@ -287,9 +286,9 @@ This project is developed for Merry Mary Restaurant. All rights reserved.
 
 ## 👥 **Contributors**
 
-- **Developer**: AI Assistant
+- **Developer**: Savins
 - **Restaurant**: Merry Mary Restaurant
-- **Version**: 2.0 Enhanced
+- **Version**: 1.0 Enhanced
 
 ---
 
