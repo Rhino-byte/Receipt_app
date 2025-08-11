@@ -293,5 +293,5 @@ This project is developed for Merry Mary Restaurant. All rights reserved.
 
 ---
 
-**Merry Mary Restaurant - Receipt Management System v2.0**
+**Merry Mary Restaurant - Receipt Management System v1.0**
 *Professional restaurant management made simple*
