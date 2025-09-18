@@ -1,6 +1,9 @@
+<img width="240" height="240" alt="logo" src="https://github.com/user-attachments/assets/52ea0c3f-4203-492c-9d9e-882ec48960ce" />
+
 # Merry Mary Restaurant - Enhanced Receipt System
 
 A modern, multi-user Python-based offline receipt application with admin and staff accounts, designed for restaurant management. The app stores all receipt data in a SQLite database and features a beautiful, responsive GUI.
+![Consumerism through Collage - Andrea Sigmann](https://github.com/user-attachments/assets/9ce3b9ac-95f4-4d5e-bc96-a7f35b710784)
 
 ## 🎯 **Key Features**
 
